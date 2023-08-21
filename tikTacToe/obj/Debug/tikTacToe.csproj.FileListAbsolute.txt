@@ -1,0 +1,8 @@
+F:\Visual Studio\TestProjects\tikTacToe\tikTacToe\obj\Debug\tikTacToe.csproj.AssemblyReference.cache
+F:\Visual Studio\TestProjects\tikTacToe\tikTacToe\obj\Debug\tikTacToe.csproj.SuggestedBindingRedirects.cache
+F:\Visual Studio\TestProjects\tikTacToe\tikTacToe\obj\Debug\tikTacToe.csproj.CoreCompileInputs.cache
+F:\Visual Studio\TestProjects\tikTacToe\tikTacToe\bin\Debug\tikTacToe.exe.config
+F:\Visual Studio\TestProjects\tikTacToe\tikTacToe\bin\Debug\tikTacToe.exe
+F:\Visual Studio\TestProjects\tikTacToe\tikTacToe\bin\Debug\tikTacToe.pdb
+F:\Visual Studio\TestProjects\tikTacToe\tikTacToe\obj\Debug\tikTacToe.exe
+F:\Visual Studio\TestProjects\tikTacToe\tikTacToe\obj\Debug\tikTacToe.pdb
